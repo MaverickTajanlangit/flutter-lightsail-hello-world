@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                'Welcome to my first Flutter CI/CD project!',
+                'CI/CD TEST SUCCESSFUL! Updated automatically!',
                 textAlign: TextAlign.center,
               ),
             ],
